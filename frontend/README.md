@@ -20,8 +20,20 @@ Create a Basic set of UI/UX designs for the **Vivid Care** web and mobile, the U
 
 ### **Dashboard/Timeline**
 
-- As a user, I want to see my recent **Hospital/Lab Visitation**, **Date**, **Visit Type**, **Visit Details**, **Facility**, **Doctor**.
-- As a user, I want to be able to filter my timeline by **Date**, **Visit Type (e.g. Office Visit, Hospitalization, Procedure, Genetic Testing, Labs, Imaging, Pathology, etc)**, **Visit Details (e.g. Notes, Medications, Assessments, Vaccinations, Vital Signs)**, **Facility (e.g. name of laps/hospital visited)**, **Doctor (e.g. name of doctor)**
+- As a user, I want to see my recent **Hospital/Lab Visitation:**
+  - **Date**
+  - **Visit Type**
+  - **Visit Details**
+  - **Facility**
+  - **Doctor**
+  
+- As a user, I want to be able to filter my timeline by 
+  - **Date**
+  - **Visit Type (e.g. Office Visit, Hospitalization, Procedure, Genetic Testing, Labs, Imaging, Pathology, etc)**
+  - **Visit Details (e.g. Notes, Medications, Assessments, Vaccinations, Vital Signs)**
+  - **Facility (e.g. name of laps/hospital visited)**
+  - **Doctor (e.g. name of doctor)**
+- As a user, I want to be able to download my health record in a **PDF** format.
 
 ![](./assets/timeline_sample.gif)
 
