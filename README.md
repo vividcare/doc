@@ -24,3 +24,11 @@ Medical information explosion is a problem in the health sector. Not only do we 
 
 - [Frontend](./frontend/README.md)
 - [Backend](./backend/README.md)
+
+## Trello Board
+
+[Trello Board](https://trello.com/b/ChTOLJTb/vivid-care)
+
+## Figma Board
+
+[Figma Board](https://www.figma.com/file/cygZvNvf9lVKEbUBaAax9h/Untitled)
